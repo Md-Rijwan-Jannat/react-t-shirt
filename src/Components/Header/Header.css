@@ -1,0 +1,10 @@
+.header a{
+    margin-right: 30px;
+    color: white;
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 10px;
+}
+.header a:hover{
+    background-color: rgba(137, 43, 226, 0.812);
+}
