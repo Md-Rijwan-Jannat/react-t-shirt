@@ -1,0 +1,21 @@
+.style{
+    color: blueviolet;
+    width: 16px;
+}
+.item-name{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 0 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.item-name button{
+    text-decoration: none;
+    border-radius: 35px ;
+}
+.cart{
+    position: sticky;
+    top: 0;
+}
